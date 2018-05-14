@@ -31,3 +31,15 @@ WebUI.setText(findTestObject('Page/login/Page login/input_loginPwd'), '789456123
 
 WebUI.click(findTestObject('Page/login/Page login/button_login'))
 
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+

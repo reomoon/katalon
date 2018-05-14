@@ -64,3 +64,5 @@ WebUI.verifyMatch(alert2, 'SMS가 발송되었습니다.', false)
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert()
+
