@@ -62,7 +62,3 @@ alert2 = WebUI.getAlertText()
 'alert sms발송 메세지 확인'
 WebUI.verifyMatch(alert2, 'SMS가 발송되었습니다.', false)
 
-WebUI.acceptAlert()
-
-WebUI.acceptAlert()
-
